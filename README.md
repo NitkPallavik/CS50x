@@ -1,2 +1,2 @@
 # CS50x
-CS50x assigment
+CS50x Assignment
